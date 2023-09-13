@@ -1,0 +1,5 @@
+secrets.txt
+file2.txt
+*.log
+
+#this is a test to check the if this works
